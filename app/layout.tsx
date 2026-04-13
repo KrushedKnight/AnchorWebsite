@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   title: "Anchor — Focus & Session Tracking for macOS",
   description:
     "A focus timer for macOS. Write down your task, start a session, and track where your time goes.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
 };
 
 export default function RootLayout({
