@@ -243,7 +243,7 @@ export default function Home() {
                   <div className="analytics-header">
                     <div className="analytics-header-left">
                       <span className="analytics-big-stat">83%</span>
-                      <span className="analytics-trend">&nearr; 3%</span>
+                      <span className="analytics-trend">↗ 3%</span>
                       <span className="analytics-streak">&#x1F525; 2</span>
                     </div>
                     <span className="analytics-balanced">&#x2696; Balanced</span>
